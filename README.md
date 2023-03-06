@@ -17,3 +17,9 @@ The following are the features of the hotel booking API:
     - `MONGO_URI:` the URI for the MongoDB database.
     - `JWT:` the secret key for JWT token signing.
 - Start the server: `npm start`
+
+## Technologies Used
+- Node.js
+- Express.js
+- MongoDB
+- JWT
