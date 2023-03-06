@@ -23,3 +23,6 @@ The following are the features of the hotel booking API:
 - Express.js
 - MongoDB
 - JWT
+
+## Conclusion
+This hotel booking API is a secure and efficient tool for booking hotel rooms. It includes user authentication with JWT role-based authorization verification system, error handling best practices. With the use of Node.js and Express.js, it provides a fast and reliable performance while using MongoDB as its database for efficient data storage.
